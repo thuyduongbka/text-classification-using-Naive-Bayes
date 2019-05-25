@@ -1,5 +1,6 @@
 # text-classification-using-Naive-Bayes
 Phân loại văn bản Tiếng Việt sử dụng thư viện sklearn
+Dữ liệu tham khảo từ : https://github.com/duyvuleo/VNTC/tree/master/Data
 Bộ dữ liệu gồm 3 thể loại :
  
 Data training:
